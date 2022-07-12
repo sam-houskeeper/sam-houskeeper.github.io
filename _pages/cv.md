@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download cv here](http://academicpages.github.io/files/CV.pdf)
+[Download cv here](http://sam-houskeeper.github.io/files/CV.pdf)
 
 Last updated May 2022.

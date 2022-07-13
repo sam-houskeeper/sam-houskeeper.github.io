@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Personal Academic Website"
+title                    : "Welcome to my personal website"
 title_separator          : "-"
 name                     : &name "Sam Houskeeper"
-description              : &description "PhD candidate in political science at Columbia University"
+description              : &description
 url                      : https://sam-houskeeper.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sam-houskeeper/sam-houskeeper.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Sam Houskeeper"
   avatar           : "profile.png"
-  bio              : "PhD candidate in political science at Columbia University"
+  bio              : "PhD candidate" \\ "Political science"
   location         : "New York City"
   employer         : "Columbia University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :

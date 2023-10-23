@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sam Houskeeper"
   avatar           : "bio-photo.png"
-  bio              : "PhD candidate \\ Political science"
+  bio              : "PhD candidate \n Political science"
   location         : "New York City"
   employer         : "Columbia University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "sjh2205@columbia.edu"
   researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

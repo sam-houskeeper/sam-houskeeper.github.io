@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "this is my title"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Sam Houskeeper"
 description              : &description "this is my description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sam Houskeeper"
   avatar           : "bio-photo.png"
-  bio              : "PhD candidate, Political science"
+  bio              : "PhD candidate \\ Political science"
   location         : "New York City"
   employer         : "Columbia University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

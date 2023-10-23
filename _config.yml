@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Sam Houskeeper"
-masthead_title.          : "About Me"
+masthead_title           : "About Me"
 title_separator          : "-"
 name                     : &name "Sam Houskeeper"
 description              : &description "this is my description"
@@ -84,11 +84,15 @@ author:
   name             : "Sam Houskeeper"
   avatar           : "bio-photo.png"
   bio              : "PhD candidate <br> Political Science"
-  location         : "New York City"
-  employer         : "Columbia University"
+  location         : #"New York City"
+links:
+ - label: "Columbia University"
+   icon: "\faUniversity"
+   url: "https://polisci.columbia.edu/content/samuel-houskeeper"
+  employer         : #"Columbia University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "sjh2205@columbia.edu"
+  email            : #"sjh2205@columbia.edu"
   researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

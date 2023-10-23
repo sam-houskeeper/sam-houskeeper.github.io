@@ -85,7 +85,7 @@ author:
   avatar           : "bio-photo.png"
   bio              : "PhD candidate <br> Political Science <br> New York City"
   location         : #"New York City"
-  employer         : [Columbia University](https://polisci.columbia.edu/content/samuel-houskeeper)
+  employer         : <a href="https://polisci.columbia.edu/content/samuel-houskeeper">Columbia University</a>
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "[sjh2205@columbia.edu](sjh2205@columbia.edu)"
@@ -116,10 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
 
 
 # Reading Files

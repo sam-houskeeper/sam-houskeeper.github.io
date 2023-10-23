@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal academic website. You can contact me at sjh2205@columbia.edu
+Welcome to my personal academic website.
+
+I am a 5th year PhD candidate in political science at Columbia University studying international political economy. In particular, I study international environmental politics and the difficulty of global cooperation.
+
+You can contact me at sjh2205@columbia.edu

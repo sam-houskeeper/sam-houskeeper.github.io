@@ -85,7 +85,7 @@ author:
   avatar           : "bio-photo.png"
   bio              : "PhD candidate <br> Political Science <br> New York City"
   location         : #"New York City"
-  description      : <a href="https://polisci.columbia.edu/content/samuel-houskeeper">Columbia University</a>
+  link             : <a href="https://polisci.columbia.edu/content/samuel-houskeeper">Columbia University</a>
   employer         : #<a href="https://polisci.columbia.edu/content/samuel-houskeeper">Columbia University</a>
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"

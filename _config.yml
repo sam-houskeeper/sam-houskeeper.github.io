@@ -88,7 +88,7 @@ author:
   employer         : <a href="https://polisci.columbia.edu/content/samuel-houskeeper">Columbia University</a>
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "[sjh2205@columbia.edu](sjh2205@columbia.edu)"
+  email            : <a href="sjh2205@columbia.edu">.edu</a>
   researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

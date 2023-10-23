@@ -11,7 +11,7 @@ title                    : "Sam Houskeeper"
 masthead_title           : "About Me"
 title_separator          : "-"
 name                     : &name "Sam Houskeeper"
-description              : &description "this is my description"
+description              : &description "my personal academic website"
 url                      : https://sam-houskeeper.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sam-houskeeper/sam-houskeeper.github.io"
@@ -85,11 +85,12 @@ author:
   avatar           : "bio-photo.png"
   bio              : "PhD candidate <br> Political Science <br> New York City"
   location         : #"New York City"
-  link.            : <a href="https://polisci.columbia.edu/content/samuel-houskeeper">Columbia University</a>
-  employer         : #<a href="https://polisci.columbia.edu/content/samuel-houskeeper">Columbia University</a>
+  link             : <a href="https://polisci.columbia.edu/content/samuel-houskeeper">Columbia University</a>
+  link             : <a href="sjh2205@columbia.edu">\.edu</a>
+  employer         : "Columbia University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : <a href="sjh2205@columbia.edu">\.edu</a>
+  email            : "sjh2205@columbia.edu"
   researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

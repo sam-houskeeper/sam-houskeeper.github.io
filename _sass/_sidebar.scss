@@ -83,8 +83,11 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 210px;
+    max-height: 280px;
+{% comment %}
     border-radius: 50%;
+{% endcomment %}
 
     @include breakpoint($large) {
       padding: 5px;

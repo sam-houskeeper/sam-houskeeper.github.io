@@ -85,9 +85,7 @@
   img {
     max-width: 210px;
     max-height: 280px;
-{% comment %}
-    border-radius: 50%;
-{% endcomment %}
+    //border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;

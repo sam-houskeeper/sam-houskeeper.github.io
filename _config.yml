@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Sam Houskeeper"
-masthead_title           : "About Me"
+masthead_title           : "Home"
 title_separator          : "-"
 name                     : &name "Sam Houskeeper"
 description              : &description "my personal academic website"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Sam Houskeeper"
   avatar           : "bio-photo.png"
-  bio              : "PhD candidate <br> Political Science"
-  location         : "New York City"
+  bio              : "Ph.D. Candidate <br> Political Science"
+  location         : #"New York City"
   employer         : "https://polisci.columbia.edu/content/samuel-houskeeper"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"

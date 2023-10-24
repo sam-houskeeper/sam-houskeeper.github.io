@@ -34,6 +34,7 @@
   }
 }
 
+{% comment %}
 .page__title {
   margin-top: 0;
   line-height: 1;
@@ -42,6 +43,7 @@
     margin-top: -0.5em;
   }
 }
+{% endcomment %}
 
 .page__lead {
   font-family: $global-font-family;
@@ -137,8 +139,9 @@
         max-width: $x-large;
       }
     }
-
+{% comment %}
     .page__title,
+{% endcomment %}
     .page__meta,
     .page__lead,
     .btn {
@@ -150,14 +153,15 @@
       max-width: $medium;
     }
 
+{% comment %}
     .page__title {
       font-size: $type-size-2;
-      display: none;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
       }
     }
+{% endcomment %}
   }
 }
 

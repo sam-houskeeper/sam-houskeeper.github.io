@@ -23,7 +23,7 @@ Advanced Track: expected completion summer 2024
 
 \textbf{Conceptual Foundations of International Politics} Fall 2022
 \textit{Instructor} (Cordier Fellow)
-Syllabus
+[Syllabus](http://sam-houskeeper.github.io/files/CV_10_2023.pdf)
 School of International and Public Affairs, Columbia University
 
 \textbf{ Politics Part II} Spring 2022

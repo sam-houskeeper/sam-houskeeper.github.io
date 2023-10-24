@@ -14,7 +14,7 @@ author_profile: true
 ## Working Papers:
 
 ### Explaining National Variation in Climate Change Mitigation
-%status in italics, draft link, appendix link
+{% status in italics, draft link, appendix link %}
 
 In this paper, I argue that variation in national climate change mitigation can be explained by states pursuing their national interests while strategically constrained by the collective action problem. Specifically, observed variation in national yearly emissions is predicted by state costs and benefits, interacted with state size as a proxy for invulnerability to free-riding. To support this hypothesis and connect it to extant literature, I develop a theoretical framework that interrelates state climate change mitigation interests, preferences, behaviors, and outcomes. I then operationalize and test this theory against real emissions changes compared to counterfactual emissions changes estimated with a shift-share instrumental variable design. The theoretical framework and the counterfactual estimation methodology developed in this paper will facilitate future work on climate mitigation politics, from both international and domestic politics approaches.
 

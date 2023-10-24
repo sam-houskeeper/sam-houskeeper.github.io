@@ -41,7 +41,7 @@ author_profile: true
 **International Political Economy** Summer 2021
 <br>*Teaching Assistant* for Prof. James Bisbee
 <br>[Syllabus](http://sam-houskeeper.github.io/files/syllabus_IPE_summer.pdf)
-<br>Political Science Department, Columbia University
+<br>School of International and Public Affairs, Columbia University
 
 
 ## Experience: Undergraduate Courses

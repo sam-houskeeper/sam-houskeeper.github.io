@@ -90,8 +90,7 @@ author:
   employer         : "Columbia University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "sjh2205@columbia.edu"
-  email_label      : ".edu"
+  email            : [.edu]"sjh2205@columbia.edu"
   researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

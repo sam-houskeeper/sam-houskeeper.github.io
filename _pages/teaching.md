@@ -25,42 +25,47 @@ author_profile: true
 **Conceptual Foundations of International Politics** Fall 2022
 <br>School of International and Public Affairs, Columbia University
 <br>*Section Instructor* (Cordier Fellow)
-<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabus - Conceptual Foundations of International Politics.pdf)
-<br>[Section Syllabus](http://sam-houskeeper.github.io/files/CF Section Policy Sheet.pdf)
-<br>[Evaluations Part 1](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_1.pdf)
-<br>[Evaluations Part 2](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_2.pdf)
-<br>[Evaluations Part 3](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_3.pdf)
+<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - Conceptual Foundations of International Politics.pdf)
+<br>[Section Syllabus](http://sam-houskeeper.github.io/files/Syllabi/CF Section Policy Sheet.pdf)
+<br>[Section 1 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_1.pdf)
+<br>[Section 2 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_2.pdf)
+<br>[Section 3 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_3.pdf)
 
 **Principles of Quantitative Political Research II** Spring 2022
 <br>Political Science Department, Columbia University
 <br>*Teaching Assistant* for Prof. Andrew Gelman
-<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabus - Principles of Quantitative Political Research II.pdf)
-<br>[Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantII_Section)
-<br>[Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantII_Class)
+<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - Principles of Quantitative Political Research II.pdf)
+<br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantII_Section)
+<br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantII_Class)
 
 **Principles of Quantitative Political Research I** Fall 2021
 <br>Political Science Department, Columbia University
 <br>*Teaching Assistant* for Prof. Andrew Gelman
-<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabus - Principles of Quantitative Political Research I..pdf)
-<br>[Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantI_Section)
-<br>[Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantI_Class)
+<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - Principles of Quantitative Political Research I..pdf)
+<br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantI_Section)
+<br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantI_Class)
 
 **International Political Economy** Summer 2021
-<br>*Teaching Assistant* for Prof. James Bisbee
-<br>[Syllabus](http://sam-houskeeper.github.io/files/syllabus_IPE_summer.pdf)
 <br>School of International and Public Affairs, Columbia University
+<br>*Teaching Assistant* (no section) for Prof. James Bisbee
+<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/syllabus_IPE_summer.pdf)
+<br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_SummerIPE_Class)
+
 
 
 ## Experience: Undergraduate Courses
 
 **International Political Economy** Spring 2021
-<br>*Teaching Assistant* for Prof. Davit Sahakyan
-<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabus - International Political Economy.pdf)
 <br>Political Science Department, Columbia University
+<br>*Teaching Assistant* for Prof. Davit Sahakyan
+<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - International Political Economy.pdf)
+<br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_IPE_Section)
+<br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_IPE_Class)
 
 **International Politics** Spring 2021
-<br>*Teaching Assistant* for Prof. Kim Marten
-<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabus_International Politics)
 <br>Political Science Department, Columbia University
+<br>*Teaching Assistant* for Prof. Kim Marten
+<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus_International Politics)
+<br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_International_Politics_Section)
 
 

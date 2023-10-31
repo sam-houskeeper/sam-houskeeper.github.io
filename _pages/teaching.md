@@ -26,7 +26,7 @@ author_profile: true
 <br>School of International and Public Affairs, Columbia University
 <br>*Section Instructor* (Cordier Fellow)
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - Conceptual Foundations of International Politics.pdf)
-<br>[Section Syllabus](http://sam-houskeeper.github.io/files/Syllabi/CF Section Policy Sheet.pdf)
+<br>[Section Syllabus](http://sam-houskeeper.github.io/files/Syllabi/CF_Section_Policy_Sheet.pdf)
 <br>[Section 1 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_1.pdf)
 <br>[Section 2 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_2.pdf)
 <br>[Section 3 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_3.pdf)
@@ -41,7 +41,7 @@ author_profile: true
 **Principles of Quantitative Political Research I** Fall 2021
 <br>Political Science Department, Columbia University
 <br>*Teaching Assistant* for Prof. Andrew Gelman
-<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - Principles of Quantitative Political Research I..pdf)
+<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - Principles of Quantitative Political Research I.pdf)
 <br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantI_Section.pdf)
 <br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantI_Class.pdf)
 
@@ -65,7 +65,7 @@ author_profile: true
 **International Politics** Spring 2021
 <br>Political Science Department, Columbia University
 <br>*Teaching Assistant* for Prof. Kim Marten
-<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus_International Politics.pdf)
+<br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus_International_Politics.pdf)
 <br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_International_Politics_Section.pdf)
 
 

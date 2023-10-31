@@ -18,7 +18,7 @@ author_profile: true
 
 
 **Explaining National Variation in Climate Change Mitigation**
-[Draft](http://sam-houskeeper.github.io/files/Papers/Explaining_National_Variation_in_Climate_Change_Mitigation_Draft_10_11_23.pdf)
+<br> [Draft](http://sam-houskeeper.github.io/files/Papers/Explaining_National_Variation_in_Climate_Change_Mitigation_Draft_10_11_23.pdf)
 <!-- status in italics, draft link, appendix link -->
 <!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
 

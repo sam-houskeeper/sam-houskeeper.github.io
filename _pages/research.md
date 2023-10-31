@@ -29,7 +29,7 @@ In this paper, I argue that variation in national climate change mitigation can 
 Despite observed variation in the environmental preferences of individuals and organizations, the determinants of environmentalism are not well understood. We introduce a novel theoretical distinction between preferences for local and global environmental goods. This conceptual innovation is increasingly salient as demand for addressing climate change at the global level is balanced with demand for local environmental protection. We hypothesize that income is a key mediator for explaining differences between local and global environmentalism. Actors with higher incomes have greater mobility, lessening their vulnerability to local environmental harms and increasing their relative propensity for global environmental goods. We directly test the effects of mobility and other subcomponents of income, such as education and risk aversion, on general environmental preferences and on the relative strength of local versus global environmental preferences. We thus clarify the relationship between income and environmentalism by isolating multiple mechanisms of income?s effects and measuring heterogeneous effects on different types of environmentalism. Our theoretical innovations are supported by analysis of extensive public opinion data from modern Italy. Leveraging the geographic granularity and specificity of this dataset, we use a multilevel model to flexibly adjust for location-specific effects. This approach controls for the confounding effect of exposure to environmental harm.
 
 **Lobbying Implications of Property-Based Chemical Regulation**
-<br> with Kinnari M. Shah
+<br> with [Kinnari M. Shah](https://www.kinnarimshah.com)
 
 
 

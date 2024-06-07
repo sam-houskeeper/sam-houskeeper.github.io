@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-
+test
 
 ## Training: Columbia Center for Teaching and Learning
 
@@ -49,7 +49,7 @@ author_profile: true
 <br>School of International and Public Affairs, Columbia University
 <br>*Teaching Assistant* (no section) for Prof. James Bisbee
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/syllabus_IPE_summer.pdf)
-<br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_SummerIPE_Class.pdf)
+<br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_SummerIPE_Class_redacted.pdf)
 
 
 
@@ -60,7 +60,7 @@ author_profile: true
 <br>*Teaching Assistant* for Prof. Davit Sahakyan
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - International Political Economy.pdf)
 <br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_IPE_Section.pdf)
-<br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_IPE_Class.pdf)
+<br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_IPE_Class_redacted.pdf)
 
 **International Politics** Spring 2021
 <br>Political Science Department, Columbia University

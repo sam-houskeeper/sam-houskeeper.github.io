@@ -3,10 +3,16 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+toc: true
+toc_label: "Table of Contents"
 ---
 {% include base_path %}
 
 test
+
+## Teaching Statement
+
+## Teaching Evaluations
 
 ## Training: Columbia Center for Teaching and Learning
 

@@ -29,8 +29,8 @@ This syllabus is for a graduate-level research seminar on the international poli
 **2022-2023 Lead Teaching Fellow for the Political Science Department**
 <br>[LTF Page](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/2022-3/)
 *	Designed and led two pedagogy workshops for teaching assistants
-	*	?Teaching Writing and Content at the Same Time?
-	*	?The Basics of Inclusive Teaching?
+	*	``Teaching Writing and Content at the Same Time''
+	*	``The Basics of Inclusive Teaching''
 *	Acted as liaison between the political science department and the CTL
 	*	Began a yearly teaching needs assessment in the department
 	*	Recruited department-members for CTL events and programs
@@ -40,15 +40,15 @@ This syllabus is for a graduate-level research seminar on the international poli
 
 **Teaching Development Program**
 <br>Foundational Track: completed summer 2022
--	Completed the CTL Essentials of Teaching and Learning courses
--	Completed CTL courses on expectations, rubrics, and learning processes
--	Engaged in microteaching exercises with a CTL supervisor
--	Wrote critical reflections after each course and exercise to build knowledge
+*	Completed the CTL Essentials of Teaching and Learning courses
+*	Completed CTL courses on expectations, rubrics, and learning processes
+*	Engaged in microteaching exercises with a CTL supervisor
+*	Wrote critical reflections after each course and exercise to build knowledge
 <br>Advanced Track: expected completion summer 2024
--	Completed CTL courses on inclusive teaching and beyond participation
--	Performed teaching observations of faculty and peers
--	Received a CTL teaching observation and met to discuss report
--	Wrote critical reflections after each course and exercise to build knowledge
+*	Completed CTL courses on inclusive teaching and beyond participation
+*	Performed teaching observations of faculty and peers
+*	Received a CTL teaching observation and met to discuss report
+*	Wrote critical reflections after each course and exercise to build knowledge
 
 
 
@@ -63,11 +63,11 @@ This syllabus is for a graduate-level research seminar on the international poli
 <br>[Section 1 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_1.pdf)
 <br>[Section 2 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_2.pdf)
 <br>[Section 3 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_3.pdf)
--	Taught three weekly two-hour sections
--	Collaborated on lecture and section plans
--	Collaborated on midterm and final exam questions
--	Held twice weekly office hours
--	Graded and provided detailed feedback on midterm and final exams
+*	Taught three weekly two-hour sections
+*	Collaborated on lecture and section plans
+*	Collaborated on midterm and final exam questions
+*	Held twice weekly office hours
+*	Graded and provided detailed feedback on midterm and final exams
 
 **Principles of Quantitative Political Research II** Spring 2022
 <br>Political Science Department, Columbia University
@@ -75,6 +75,13 @@ This syllabus is for a graduate-level research seminar on the international poli
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - Principles of Quantitative Political Research II.pdf)
 <br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantII_Section.pdf)
 <br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantII_Class.pdf)
+*	Taught two weekly sections
+*	Taught a final exam review meeting
+*	Guest lectured while professor was away
+*	Collaborated on writing the final exam
+*	Held frequent office hours by appointment
+*	Managed course?s shared question and discussion document
+*	Graded and provided detailed feedback on homework
 
 **Principles of Quantitative Political Research I** Fall 2021
 <br>Political Science Department, Columbia University
@@ -82,12 +89,21 @@ This syllabus is for a graduate-level research seminar on the international poli
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - Principles of Quantitative Political Research I.pdf)
 <br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantI_Section.pdf)
 <br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantI_Class.pdf)
+*	Taught two weekly sections
+*	Taught a final exam review meeting
+*	Collaborated on writing the final exam
+*	Held frequent office hours by appointment
+*	Managed course?s shared question and discussion board online
+*	Graded and provided detailed feedback on homework
 
 **International Political Economy** Summer 2021
 <br>School of International and Public Affairs, Columbia University
 <br>*Teaching Assistant* (no section) for Prof. James Bisbee
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/syllabus_IPE_summer.pdf)
 <br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_SummerIPE_Class_redacted.pdf)
+*	Held frequent office hours by appointment
+*	Graded and provided detailed feedback on homework and exams
+
 
 
 
@@ -99,11 +115,19 @@ This syllabus is for a graduate-level research seminar on the international poli
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - International Political Economy.pdf)
 <br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_IPE_Section.pdf)
 <br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_IPE_Class_redacted.pdf)
+*	Held frequent office hours by appointment
+*	Assisted professor during lecture by moderating questions
+*	Managed course?s shared question and discussion board online
+*	Graded and provided detailed feedback on homework and exams
 
 **International Politics** Spring 2021
 <br>Political Science Department, Columbia University
 <br>*Teaching Assistant* for Prof. Kim Marten
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus_International_Politics.pdf)
 <br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_International_Politics_Section.pdf)
+*	Taught two weekly sections
+*	Held weekly office hours
+*	Assisted professor during lecture by moderating questions
+*	Graded and provided detailed feedback on homework and exams
 
 

@@ -10,9 +10,9 @@ toc_label: "Table of Contents"
 
 test
 
-## Teaching Statement
+# Teaching Statement
 
-## Teaching Evaluations
+# Teaching Evaluations
 
 ## Training: Columbia Center for Teaching and Learning
 

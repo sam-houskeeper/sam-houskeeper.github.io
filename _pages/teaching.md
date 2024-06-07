@@ -28,19 +28,27 @@ This syllabus is for a graduate-level research seminar on the international poli
 
 **2022-2023 Lead Teaching Fellow for the Political Science Department**
 <br>[LTF Page](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/2022-3/)
--	Designed and led two pedagogy workshops for teaching assistants
---	?Teaching Writing and Content at the Same Time?
---	?The Basics of Inclusive Teaching?
--	Acted as liaison between the political science department and the CTL
---	Began a yearly teaching needs assessment in the department
---	Recruited department-members for CTL events and programs
--	Attended pedagogy workshops by other teaching fellows
--	Compiled a year-end report on progress over the year and plans made for the future
+*	Designed and led two pedagogy workshops for teaching assistants
+	*	?Teaching Writing and Content at the Same Time?
+	*	?The Basics of Inclusive Teaching?
+*	Acted as liaison between the political science department and the CTL
+	*	Began a yearly teaching needs assessment in the department
+	*	Recruited department-members for CTL events and programs
+*	Attended pedagogy workshops by other teaching fellows
+*	Compiled a year-end report on progress over the year and plans made for the future
 
 
 **Teaching Development Program**
 <br>Foundational Track: completed summer 2022
+-	Completed the CTL Essentials of Teaching and Learning courses
+-	Completed CTL courses on expectations, rubrics, and learning processes
+-	Engaged in microteaching exercises with a CTL supervisor
+-	Wrote critical reflections after each course and exercise to build knowledge
 <br>Advanced Track: expected completion summer 2024
+-	Completed CTL courses on inclusive teaching and beyond participation
+-	Performed teaching observations of faculty and peers
+-	Received a CTL teaching observation and met to discuss report
+-	Wrote critical reflections after each course and exercise to build knowledge
 
 
 
@@ -55,6 +63,11 @@ This syllabus is for a graduate-level research seminar on the international poli
 <br>[Section 1 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_1.pdf)
 <br>[Section 2 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_2.pdf)
 <br>[Section 3 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_3.pdf)
+-	Taught three weekly two-hour sections
+-	Collaborated on lecture and section plans
+-	Collaborated on midterm and final exam questions
+-	Held twice weekly office hours
+-	Graded and provided detailed feedback on midterm and final exams
 
 **Principles of Quantitative Political Research II** Spring 2022
 <br>Political Science Department, Columbia University

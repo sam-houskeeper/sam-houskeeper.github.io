@@ -29,8 +29,8 @@ This syllabus is for a graduate-level research seminar on the international poli
 **2022-2023 Lead Teaching Fellow for the Political Science Department**
 <br>[LTF Page](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/2022-3/)
 *	Designed and led two pedagogy workshops for teaching assistants
-	*	``Teaching Writing and Content at the Same Time''
-	*	``The Basics of Inclusive Teaching''
+	*	''Teaching Writing and Content at the Same Time''
+	*	''The Basics of Inclusive Teaching''
 *	Acted as liaison between the political science department and the CTL
 	*	Began a yearly teaching needs assessment in the department
 	*	Recruited department-members for CTL events and programs
@@ -69,6 +69,8 @@ This syllabus is for a graduate-level research seminar on the international poli
 *	Held twice weekly office hours
 *	Graded and provided detailed feedback on midterm and final exams
 
+<br>
+<br>
 **Principles of Quantitative Political Research II** Spring 2022
 <br>Political Science Department, Columbia University
 <br>*Teaching Assistant* for Prof. Andrew Gelman
@@ -83,6 +85,8 @@ This syllabus is for a graduate-level research seminar on the international poli
 *	Managed course?s shared question and discussion document
 *	Graded and provided detailed feedback on homework
 
+<br>
+<br>
 **Principles of Quantitative Political Research I** Fall 2021
 <br>Political Science Department, Columbia University
 <br>*Teaching Assistant* for Prof. Andrew Gelman
@@ -96,6 +100,8 @@ This syllabus is for a graduate-level research seminar on the international poli
 *	Managed course?s shared question and discussion board online
 *	Graded and provided detailed feedback on homework
 
+<br>
+<br>
 **International Political Economy** Summer 2021
 <br>School of International and Public Affairs, Columbia University
 <br>*Teaching Assistant* (no section) for Prof. James Bisbee
@@ -120,6 +126,8 @@ This syllabus is for a graduate-level research seminar on the international poli
 *	Managed course?s shared question and discussion board online
 *	Graded and provided detailed feedback on homework and exams
 
+<br>
+<br>
 **International Politics** Spring 2021
 <br>Political Science Department, Columbia University
 <br>*Teaching Assistant* for Prof. Kim Marten

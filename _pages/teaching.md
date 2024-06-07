@@ -23,9 +23,13 @@ This syllabus is for a graduate-level research seminar on the international poli
 
 
 
+<br>
+<br>
 ## Training: Columbia Center for Teaching and Learning
 
 
+<br>
+<br>
 **2022-2023 Lead Teaching Fellow for the Political Science Department**
 <br>[LTF Page](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/2022-3/)
 *	Designed and led two pedagogy workshops for teaching assistants
@@ -38,7 +42,10 @@ This syllabus is for a graduate-level research seminar on the international poli
 *	Compiled a year-end report on progress over the year and plans made for the future
 
 
+<br>
+<br>
 **Teaching Development Program**
+
 <br>Foundational Track: completed summer 2022
 *	Completed the CTL Essentials of Teaching and Learning courses
 *	Completed CTL courses on expectations, rubrics, and learning processes

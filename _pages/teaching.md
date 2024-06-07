@@ -8,7 +8,7 @@ toc_label: "Table of Contents"
 ---
 {% include base_path %}
 
-I describe my approach to pedagogy in my <br>[Teaching Statement](http://sam-houskeeper.github.io/files/Teaching_Statement.pdf) and illustrate it in the following course syllabi that I have designed. Below, you can find an outline of my teaching training and experience.
+I describe my approach to pedagogy in my [Teaching Statement](http://sam-houskeeper.github.io/files/Teaching_Statement.pdf) and illustrate it in the following course syllabi that I have designed. Below, you can find an outline of my teaching training and experience.
 
 **Introduction to International Relations**
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Houskeeper_Undergrad_IR_Syllabus.pdf)

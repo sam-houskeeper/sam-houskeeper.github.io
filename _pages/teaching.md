@@ -8,11 +8,18 @@ toc_label: "Table of Contents"
 ---
 {% include base_path %}
 
-test
+I describe my approach to pedagogy in my <br>[Teaching Statement](http://sam-houskeeper.github.io/files/Teaching_Statement.pdf) and illustrate it in the following course syllabi that I have designed. Below, you can find an outline of my teaching training and experience.
 
-# Teaching Statement
+**Introduction to International Relations**
+<br>[Syllabus](http://sam-houskeeper.github.io/files/Houskeeper_Undergrad_IR_Syllabus.pdf)
 
-# Teaching Evaluations
+This syllabus is for an introductory undergraduate-level lecture on international relations (IR). I structure the material around the central paradigms of IR and their application to both historical cases and contemporary problems. Historical applications provide students with a common set of facts about the big events in modern history that inform much of IR research. The historical material in this course may also be the first time that many students have considered world history as the development of a state system rather than as the histories of various individual nations or regions. Applications to contemporary problems are also useful to students for demonstrating the relevance and meaningfulness of seemingly abstract IR theory topics.
+
+**The International Politics of Climate Change**
+<br>[Syllabus](http://sam-houskeeper.github.io/files/Houskeeper_Grad_CC_Syllabus.pdf)
+
+This syllabus is for a graduate-level research seminar on the international politics of climate change. I organize the course theoretically, dividing recent and classic literature on climate politics by theoretical frameworks (i.e. collective action versus bargaining) and by level of analysis (i.e. sub-state versus state system). A key learning objective of this course is to develop students? academic research skills; the course therefore builds up to a final research paper that demonstrates students? ability to add to academic knowledge. But the assigned reading, writing, and presentations throughout the semester provide scaffolding to guide students in developing this project.
+
 
 ## Training: Columbia Center for Teaching and Learning
 

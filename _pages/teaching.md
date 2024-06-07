@@ -21,15 +21,27 @@ This syllabus is for an introductory undergraduate-level lecture on internationa
 This syllabus is for a graduate-level research seminar on the international politics of climate change. I organize the course theoretically, dividing recent and classic literature on climate politics by theoretical frameworks (i.e. collective action versus bargaining) and by level of analysis (i.e. sub-state versus state system). A key learning objective of this course is to develop students? academic research skills; the course therefore builds up to a final research paper that demonstrates students? ability to add to academic knowledge. But the assigned reading, writing, and presentations throughout the semester provide scaffolding to guide students in developing this project.
 
 
+
+
 ## Training: Columbia Center for Teaching and Learning
 
 
 **2022-2023 Lead Teaching Fellow for the Political Science Department**
 <br>[LTF Page](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/2022-3/)
+-	Designed and led two pedagogy workshops for teaching assistants
+--	?Teaching Writing and Content at the Same Time?
+--	?The Basics of Inclusive Teaching?
+-	Acted as liaison between the political science department and the CTL
+--	Began a yearly teaching needs assessment in the department
+--	Recruited department-members for CTL events and programs
+-	Attended pedagogy workshops by other teaching fellows
+-	Compiled a year-end report on progress over the year and plans made for the future
+
 
 **Teaching Development Program**
 <br>Foundational Track: completed summer 2022
 <br>Advanced Track: expected completion summer 2024
+
 
 
 

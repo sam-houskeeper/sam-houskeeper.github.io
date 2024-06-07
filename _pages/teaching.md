@@ -44,6 +44,7 @@ This syllabus is for a graduate-level research seminar on the international poli
 *	Completed CTL courses on expectations, rubrics, and learning processes
 *	Engaged in microteaching exercises with a CTL supervisor
 *	Wrote critical reflections after each course and exercise to build knowledge
+
 <br>Advanced Track: expected completion summer 2024
 *	Completed CTL courses on inclusive teaching and beyond participation
 *	Performed teaching observations of faculty and peers
@@ -53,6 +54,8 @@ This syllabus is for a graduate-level research seminar on the international poli
 
 
 
+<br>
+<br>
 ## Experience: Graduate Courses
 
 **Conceptual Foundations of International Politics** Fall 2022
@@ -113,6 +116,8 @@ This syllabus is for a graduate-level research seminar on the international poli
 
 
 
+<br>
+<br>
 ## Experience: Undergraduate Courses
 
 **International Political Economy** Spring 2021

@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf)
+[Available here](http://sam-houskeeper.github.io/files/CV_7_2024.pdf)
 
-Last updated October 2023
+Last updated July 2024

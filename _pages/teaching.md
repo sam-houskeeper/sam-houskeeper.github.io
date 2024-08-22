@@ -13,34 +13,31 @@ toc_label: "Table of Contents"
 
 **2022-2023 Lead Teaching Fellow for the Political Science Department**
 <br>[LTF Page](https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/2022-3/)
-*	Designed and led two pedagogy workshops for teaching assistants
-	*	''Teaching Writing and Content at the Same Time''
-	*	''The Basics of Inclusive Teaching''
-*	Acted as liaison between the political science department and the CTL
-	*	Began a yearly teaching needs assessment in the department
-	*	Recruited department-members for CTL events and programs
-*	Attended pedagogy workshops by other teaching fellows
-*	Compiled a year-end report on progress over the year and plans made for the future
+<!-- *	Designed and led two pedagogy workshops for teaching assistants-->
+<!-- 	*	''Teaching Writing and Content at the Same Time''-->
+<!-- 	*	''The Basics of Inclusive Teaching''-->
+<!-- *	Acted as liaison between the political science department and the CTL-->
+<!-- 	*	Began a yearly teaching needs assessment in the department-->
+<!-- 	*	Recruited department-members for CTL events and programs-->
+<!-- *	Attended pedagogy workshops by other teaching fellows-->
+<!-- *	Compiled a year-end report on progress over the year and plans made for the future-->
 
 **Teaching Development Program**
 
 <br>Foundational Track: completed summer 2022
-*	Completed the CTL Essentials of Teaching and Learning courses
-*	Completed CTL courses on expectations, rubrics, and learning processes
-*	Engaged in microteaching exercises with a CTL supervisor
-*	Wrote critical reflections after each course and exercise to build knowledge
-
+<!-- *	Completed the CTL Essentials of Teaching and Learning courses-->
+<!-- *	Completed CTL courses on expectations, rubrics, and learning processes-->
+<!-- *	Engaged in microteaching exercises with a CTL supervisor-->
+<!-- *	Wrote critical reflections after each course and exercise to build knowledge-->
 <br>Advanced Track: completed summer 2024
-*	Completed CTL courses on inclusive teaching and beyond participation
-*	Performed teaching observations of faculty and peers
-*	Received a CTL teaching observation and met to discuss report
-*	Wrote critical reflections after each course and exercise to build knowledge
+<!-- *	Completed CTL courses on inclusive teaching and beyond participation-->
+<!-- *	Performed teaching observations of faculty and peers-->
+<!-- *	Received a CTL teaching observation and met to discuss report-->
+<!-- *	Wrote critical reflections after each course and exercise to build knowledge-->
 
 
 
 
-<br>
-<br>
 ## Experience: Graduate Courses
 
 **Conceptual Foundations of International Politics** Fall 2022
@@ -57,8 +54,6 @@ toc_label: "Table of Contents"
 <!-- *	Held twice weekly office hours-->
 <!-- *	Graded and provided detailed feedback on midterm and final exams-->
 
-<br>
-<br>
 **Principles of Quantitative Political Research II** Spring 2022
 <br>Political Science Department, Columbia University
 <br>*Teaching Assistant* for Prof. Andrew Gelman
@@ -73,8 +68,6 @@ toc_label: "Table of Contents"
 <!-- *	Managed course?s shared question and discussion document-->
 <!-- *	Graded and provided detailed feedback on homework-->
 
-<br>
-<br>
 **Principles of Quantitative Political Research I** Fall 2021
 <br>Political Science Department, Columbia University
 <br>*Teaching Assistant* for Prof. Andrew Gelman
@@ -88,8 +81,6 @@ toc_label: "Table of Contents"
 <!-- *	Managed course?s shared question and discussion board online-->
 <!-- *	Graded and provided detailed feedback on homework-->
 
-<br>
-<br>
 **International Political Economy** Summer 2021
 <br>School of International and Public Affairs, Columbia University
 <br>*Teaching Assistant* (no section) for Prof. James Bisbee
@@ -101,8 +92,6 @@ toc_label: "Table of Contents"
 
 
 
-<br>
-<br>
 ## Experience: Undergraduate Courses
 
 **International Political Economy** Spring 2021
@@ -116,8 +105,6 @@ toc_label: "Table of Contents"
 <!-- *	Managed course?s shared question and discussion board online-->
 <!-- *	Graded and provided detailed feedback on homework and exams-->
 
-<br>
-<br>
 **International Politics** Spring 2021
 <br>Political Science Department, Columbia University
 <br>*Teaching Assistant* for Prof. Kim Marten
@@ -131,8 +118,6 @@ toc_label: "Table of Contents"
 
 
 
-<br>
-<br>
 ## Model Syllabi:
 
 **Introduction to International Relations**
@@ -140,8 +125,6 @@ toc_label: "Table of Contents"
 
 This syllabus is for an introductory undergraduate-level lecture on international relations (IR). I structure the material around the central paradigms of IR and their application to both historical cases and contemporary problems. Historical applications provide students with a common set of facts about the big events in modern history that inform much of IR research. The historical material in this course may also be the first time that many students have considered world history as the development of a state system rather than as the histories of various individual nations or regions. Applications to contemporary problems are also useful to students for demonstrating the relevance and meaningfulness of seemingly abstract IR theory topics.
 
-<br>
-<br>
 **The International Politics of Climate Change**
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Houskeeper_Grad_CC_Syllabus.pdf)
 

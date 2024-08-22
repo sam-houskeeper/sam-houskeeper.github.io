@@ -8,23 +8,7 @@ toc_label: "Table of Contents"
 ---
 {% include base_path %}
 
-I describe my approach to pedagogy in my [Teaching Statement](http://sam-houskeeper.github.io/files/Teaching_Statement.pdf) and illustrate it in the following course syllabi that I have designed. Below, you can find an outline of my teaching training and experience.
-
-**Introduction to International Relations**
-<br>[Syllabus](http://sam-houskeeper.github.io/files/Houskeeper_Undergrad_IR_Syllabus.pdf)
-
-This syllabus is for an introductory undergraduate-level lecture on international relations (IR). I structure the material around the central paradigms of IR and their application to both historical cases and contemporary problems. Historical applications provide students with a common set of facts about the big events in modern history that inform much of IR research. The historical material in this course may also be the first time that many students have considered world history as the development of a state system rather than as the histories of various individual nations or regions. Applications to contemporary problems are also useful to students for demonstrating the relevance and meaningfulness of seemingly abstract IR theory topics.
-
-**The International Politics of Climate Change**
-<br>[Syllabus](http://sam-houskeeper.github.io/files/Houskeeper_Grad_CC_Syllabus.pdf)
-
-This syllabus is for a graduate-level research seminar on the international politics of climate change. I organize the course theoretically, dividing recent and classic literature on climate politics by theoretical frameworks (i.e. collective action versus bargaining) and by level of analysis (i.e. sub-state versus state system). A key learning objective of this course is to develop students? academic research skills; the course therefore builds up to a final research paper that demonstrates students? ability to add to academic knowledge. But the assigned reading, writing, and presentations throughout the semester provide scaffolding to guide students in developing this project.
-
-
-
-
-<br>
-<br>
+<!-- I describe my approach to pedagogy in my [Teaching Statement](http://sam-houskeeper.github.io/files/Teaching_Statement.pdf) and illustrate it in the following course syllabi that I have designed. Below, you can find an outline of my teaching training and experience. -->
 ## Training: Columbia Center for Teaching and Learning
 
 **2022-2023 Lead Teaching Fellow for the Political Science Department**
@@ -67,11 +51,11 @@ This syllabus is for a graduate-level research seminar on the international poli
 <br>[Section 1 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_1.pdf)
 <br>[Section 2 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_2.pdf)
 <br>[Section 3 Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_CF_3.pdf)
-*	Taught three weekly two-hour sections
-*	Collaborated on lecture and section plans
-*	Collaborated on midterm and final exam questions
-*	Held twice weekly office hours
-*	Graded and provided detailed feedback on midterm and final exams
+<!-- *	Taught three weekly two-hour sections-->
+<!-- *	Collaborated on lecture and section plans-->
+<!-- *	Collaborated on midterm and final exam questions-->
+<!-- *	Held twice weekly office hours-->
+<!-- *	Graded and provided detailed feedback on midterm and final exams-->
 
 <br>
 <br>
@@ -81,13 +65,13 @@ This syllabus is for a graduate-level research seminar on the international poli
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - Principles of Quantitative Political Research II.pdf)
 <br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantII_Section.pdf)
 <br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantII_Class.pdf)
-*	Taught two weekly sections
-*	Taught a final exam review meeting
-*	Guest lectured while professor was away
-*	Collaborated on writing the final exam
-*	Held frequent office hours by appointment
-*	Managed course?s shared question and discussion document
-*	Graded and provided detailed feedback on homework
+<!-- *	Taught two weekly sections-->
+<!-- *	Taught a final exam review meeting-->
+<!-- *	Guest lectured while professor was away-->
+<!-- *	Collaborated on writing the final exam-->
+<!-- *	Held frequent office hours by appointment-->
+<!-- *	Managed course?s shared question and discussion document-->
+<!-- *	Graded and provided detailed feedback on homework-->
 
 <br>
 <br>
@@ -97,12 +81,12 @@ This syllabus is for a graduate-level research seminar on the international poli
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - Principles of Quantitative Political Research I.pdf)
 <br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantI_Section.pdf)
 <br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_QuantI_Class.pdf)
-*	Taught two weekly sections
-*	Taught a final exam review meeting
-*	Collaborated on writing the final exam
-*	Held frequent office hours by appointment
-*	Managed course?s shared question and discussion board online
-*	Graded and provided detailed feedback on homework
+<!-- *	Taught two weekly sections-->
+<!-- *	Taught a final exam review meeting-->
+<!-- *	Collaborated on writing the final exam-->
+<!-- *	Held frequent office hours by appointment-->
+<!-- *	Managed course?s shared question and discussion board online-->
+<!-- *	Graded and provided detailed feedback on homework-->
 
 <br>
 <br>
@@ -111,8 +95,8 @@ This syllabus is for a graduate-level research seminar on the international poli
 <br>*Teaching Assistant* (no section) for Prof. James Bisbee
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/syllabus_IPE_summer.pdf)
 <br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_SummerIPE_Class_redacted.pdf)
-*	Held frequent office hours by appointment
-*	Graded and provided detailed feedback on homework and exams
+<!-- *	Held frequent office hours by appointment-->
+<!-- *	Graded and provided detailed feedback on homework and exams-->
 
 
 
@@ -127,10 +111,10 @@ This syllabus is for a graduate-level research seminar on the international poli
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus - International Political Economy.pdf)
 <br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_IPE_Section.pdf)
 <br>[Course Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_IPE_Class_redacted.pdf)
-*	Held frequent office hours by appointment
-*	Assisted professor during lecture by moderating questions
-*	Managed course?s shared question and discussion board online
-*	Graded and provided detailed feedback on homework and exams
+<!-- *	Held frequent office hours by appointment-->
+<!-- *	Assisted professor during lecture by moderating questions-->
+<!-- *	Managed course?s shared question and discussion board online-->
+<!-- *	Graded and provided detailed feedback on homework and exams-->
 
 <br>
 <br>
@@ -139,9 +123,27 @@ This syllabus is for a graduate-level research seminar on the international poli
 <br>*Teaching Assistant* for Prof. Kim Marten
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Syllabi/Syllabus_International_Politics.pdf)
 <br>[Section Evaluations](http://sam-houskeeper.github.io/files/Evaluations/TA_Evaluations_International_Politics_Section.pdf)
-*	Taught two weekly sections
-*	Held weekly office hours
-*	Assisted professor during lecture by moderating questions
-*	Graded and provided detailed feedback on homework and exams
+<!-- *	Taught two weekly sections-->
+<!-- *	Held weekly office hours-->
+<!-- *	Assisted professor during lecture by moderating questions-->
+<!-- *	Graded and provided detailed feedback on homework and exams-->
 
+
+
+
+<br>
+<br>
+## Model Syllabi:
+
+**Introduction to International Relations**
+<br>[Syllabus](http://sam-houskeeper.github.io/files/Houskeeper_Undergrad_IR_Syllabus.pdf)
+
+This syllabus is for an introductory undergraduate-level lecture on international relations (IR). I structure the material around the central paradigms of IR and their application to both historical cases and contemporary problems. Historical applications provide students with a common set of facts about the big events in modern history that inform much of IR research. The historical material in this course may also be the first time that many students have considered world history as the development of a state system rather than as the histories of various individual nations or regions. Applications to contemporary problems are also useful to students for demonstrating the relevance and meaningfulness of seemingly abstract IR theory topics.
+
+<br>
+<br>
+**The International Politics of Climate Change**
+<br>[Syllabus](http://sam-houskeeper.github.io/files/Houskeeper_Grad_CC_Syllabus.pdf)
+
+This syllabus is for a graduate-level research seminar on the international politics of climate change. I organize the course theoretically, dividing recent and classic literature on climate politics by theoretical frameworks (i.e. collective action versus bargaining) and by level of analysis (i.e. sub-state versus state system). A key learning objective of this course is to develop students? academic research skills; the course therefore builds up to a final research paper that demonstrates students? ability to add to academic knowledge. But the assigned reading, writing, and presentations throughout the semester provide scaffolding to guide students in developing this project.
 

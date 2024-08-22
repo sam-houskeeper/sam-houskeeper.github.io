@@ -23,7 +23,6 @@ toc_label: "Table of Contents"
 <!-- *	Compiled a year-end report on progress over the year and plans made for the future-->
 
 **Teaching Development Program**
-
 <br>Foundational Track: completed summer 2022
 <!-- *	Completed the CTL Essentials of Teaching and Learning courses-->
 <!-- *	Completed CTL courses on expectations, rubrics, and learning processes-->
@@ -129,4 +128,3 @@ This syllabus is for an introductory undergraduate-level lecture on internationa
 <br>[Syllabus](http://sam-houskeeper.github.io/files/Houskeeper_Grad_CC_Syllabus.pdf)
 
 This syllabus is for a graduate-level research seminar on the international politics of climate change. I organize the course theoretically, dividing recent and classic literature on climate politics by theoretical frameworks (i.e. collective action versus bargaining) and by level of analysis (i.e. sub-state versus state system). A key learning objective of this course is to develop students? academic research skills; the course therefore builds up to a final research paper that demonstrates students? ability to add to academic knowledge. But the assigned reading, writing, and presentations throughout the semester provide scaffolding to guide students in developing this project.
-

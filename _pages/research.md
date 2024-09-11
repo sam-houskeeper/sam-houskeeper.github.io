@@ -17,13 +17,13 @@ author_profile: true
 
 
 
-**Collective Reciprocity and the Failure of Climate Change Mitigation Treaties from Kyoto to Paris**
-[Draft](http://sam-houskeeper.github.io/files/Papers/Collective_Reciprocity_and_the_Failure_of_Climate_Change_Mitigation_Treaties_from_Kyoto_to_Paris.pdf)
-<em> Submitted </em>
+**Collective Reciprocity and the Failure of Climate Change Mitigation Treaties from Kyoto to Paris**,
+[Draft](http://sam-houskeeper.github.io/files/Papers/Collective_Reciprocity_and_the_Failure_of_Climate_Change_Mitigation_Treaties_from_Kyoto_to_Paris.pdf),
+*Submitted*
 <!-- status in italics, draft link, appendix link -->
 <!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
 
-Climate change mitigation treaties have failed to induce emissions reductions in participating states. To explain this, I introduce a novel distinction to reciprocity theory, which forms the foundation of mitigation agreements negotiated thus far. These agreements rely on what I call ``collective reciprocity,?? in which the impact of reciprocal defection cannot be limited to the initial defector. This form of reciprocity is weaker than what I call ``club reciprocity,?? in which reciprocal defections occur through the denial of club goods and thus narrowly target the initial defector. While collective reciprocity is sharply limited in the depth or breadth of treaties it can sustain, climate change mitigation requires cooperation that is both deep and broad. I demonstrate the empirical failure of mitigation treaties with a generalized synthetic control. This method compares the emissions trajectories of participating states to a weighted average of non-participant trajectories.
+Climate change mitigation treaties have failed to induce emissions reductions in participating states. To explain this, I introduce a novel distinction to reciprocity theory, which forms the foundation of mitigation agreements negotiated thus far. These agreements rely on what I call "collective reciprocity," in which the impact of reciprocal defection cannot be limited to the initial defector. This form of reciprocity is weaker than what I call "club reciprocity," in which reciprocal defections occur through the denial of club goods and thus narrowly target the initial defector. While collective reciprocity is sharply limited in the depth or breadth of treaties it can sustain, climate change mitigation requires cooperation that is both deep and broad. I demonstrate the empirical failure of mitigation treaties with a generalized synthetic control. This method compares the emissions trajectories of participating states to a weighted average of non-participant trajectories.
 
 
 

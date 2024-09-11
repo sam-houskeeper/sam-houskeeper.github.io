@@ -17,24 +17,27 @@ author_profile: true
 
 
 
-**Explaining National Variation in Unilateral Climate Change Mitigation**
-<br> [Draft](http://sam-houskeeper.github.io/files/Papers/Explaining_National_Variation_in_Unilateral_Climate_Change_Mitigation.pdf)
-<!-- status in italics, draft link, appendix link -->
-<!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
-
-Despite the absence of effective international cooperation, some states have engaged in unilateral climate change mitigation at varying levels. National variation in observed mitigation may reflect varying climate national interest, which has received little theoretical or empirical attention in climate politics research. I argue that the interactions between state costs and benefits and state size, a proxy for invulnerability to free-riding, strongly predict observed mitigation. I derive this hypothesis and connect it to the extant literature on climate politics at multiple levels of analysis with a theoretical framework that interrelates state climate change mitigation interests, preferences, behaviors, and outcomes. I test the hypothesis by predicting the difference between real emissions changes and a novel estimate for counterfactual emissions changes. The theoretical framework and the counterfactual estimation methodology developed in this article will facilitate future work on climate mitigation politics, from both international and domestic politics approaches.
-
-
-
 **Collective Reciprocity and the Failure of Climate Change Mitigation Treaties from Kyoto to Paris**
+[Draft](http://sam-houskeeper.github.io/files/Papers/Collective_Reciprocity_and_the_Failure_of_Climate_Change_Mitigation_Treaties_from_Kyoto_to_Paris.pdf)
+<em> Submitted </em>
 <!-- status in italics, draft link, appendix link -->
 <!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
 
-Climate change mitigation treaties have failed to attract significant participation beyond those states already inclined to cut emissions. Moreover, they have failed to elicit compliant increases in emissions cuts in participating states. I explain these failures by revisiting reciprocity theory, which forms the foundation of mitigation agreements negotiated thus far. These agreements rely on what I call "collective reciprocity," in which the impact of reciprocal defection cannot be limited to the initial defector. This form of reciprocity is weaker than what I call "club reciprocity," in which reciprocal defections occur through the denial of club goods and thus narrowly target the initial defector. While collective reciprocity is sharply limited in the depth or breadth of treaties it can sustain, climate change mitigation requires cooperation that is both deep and broad. I demonstrate the empirical failure of mitigation treaties based on collective reciprocity in two steps. First, I estimate the determinants of treaty participation, finding that local co-benefits to emissions cuts drove participation while an interest in climate change mitigation did not. Second, I evaluate the compliance of participating states by comparing their emissions trajectories to a synthetic control. This control is formed by weighting the emissions of non-participants by participation propensity, past emissions trajectories, and past economic trajectories.
+Climate change mitigation treaties have failed to induce emissions reductions in participating states. To explain this, I introduce a novel distinction to reciprocity theory, which forms the foundation of mitigation agreements negotiated thus far. These agreements rely on what I call ``collective reciprocity,?? in which the impact of reciprocal defection cannot be limited to the initial defector. This form of reciprocity is weaker than what I call ``club reciprocity,?? in which reciprocal defections occur through the denial of club goods and thus narrowly target the initial defector. While collective reciprocity is sharply limited in the depth or breadth of treaties it can sustain, climate change mitigation requires cooperation that is both deep and broad. I demonstrate the empirical failure of mitigation treaties with a generalized synthetic control. This method compares the emissions trajectories of participating states to a weighted average of non-participant trajectories.
+
+
+
+**Explaining National Variation in Unilateral Climate Change Mitigation**
+[Draft](http://sam-houskeeper.github.io/files/Papers/Explaining_National_Variation_in_Unilateral_Climate_Change_Mitigation.pdf)
+<!-- status in italics, draft link, appendix link -->
+<!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
+
+I argue that states pursue coherent climate national interests, which have received little theoretical or empirical attention in climate politics research. National climate change mitigation levels are the product of the costs/benefits of climate change action and state size, an indicator of invulnerability to free-riding. I derive this theory and connect it to the extant literature on climate politics with a framework that interrelates state climate change mitigation interests, preferences, behaviors, and outcomes. I validate my model of climate national interests by predicting the difference between real emissions changes and a novel estimate for counterfactual emissions changes. The theoretical framework and the counterfactual estimation methodology developed in this article will facilitate future work on climate mitigation politics, from both international and domestic politics approaches.
 
 
 
 **Environmentalism as Long-Term Good Provision: Evidence from Forest Conservation**
+[Draft](http://sam-houskeeper.github.io/files/Papers/Environmentalism_as_Long_Term_Good_Provision__Evidence_from_Forest_Conservation_Draft.pdf)
 <!-- status in italics, draft link, appendix link -->
 <!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
 
@@ -42,11 +45,19 @@ This article develops a novel institutional theory of long-term environmental go
 
 
 
-## Work in Progress:
+**Climate Finance as a Principal-Agent Problem**
+<!-- status in italics, draft link, appendix link -->
+<!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
+
+Climate finance constitutes a principal-agent problem in which funder states and recipient states must cooperate on mitigation projects despite diverging information and interests. This paper develops a novel theory of the tension between donor and recipient preferences over which of three possible counterfactual investments are replaced by green financing (brown, green, and none). While donor states prefer financing to replace brown investments, recipient states seek financing to replace green investments or no investment. Democracy, corruption, and project attributes also predict heterogeneity in this funder-recipient divide. I test these hypotheses on a cross-sectional time series of outcomes from projects funded by the Clean Development Mechanism. This work generates both practical recommendations for the rapidly growing use of climate finance and theoretical opportunities for future research on climate finance as a cooperation dilemma in international relations.
 
 
 
 **Political Cleavages from Climate Change**
+
+
+
+## Work in Progress:
 
 
 

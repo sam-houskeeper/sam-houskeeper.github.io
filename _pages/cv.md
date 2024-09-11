@@ -11,4 +11,4 @@ redirect_from:
 
 [Available here](http://sam-houskeeper.github.io/files/CV_7_2024.pdf)
 
-Last updated July 2024
+Last updated September 2024

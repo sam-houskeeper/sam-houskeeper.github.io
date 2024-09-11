@@ -27,7 +27,7 @@ Climate change mitigation treaties have failed to induce emissions reductions in
 
 
 
-**Explaining National Variation in Unilateral Climate Change Mitigation**
+**Explaining National Variation in Unilateral Climate Change Mitigation**,
 [Draft](http://sam-houskeeper.github.io/files/Papers/Explaining_National_Variation_in_Unilateral_Climate_Change_Mitigation.pdf)
 <!-- status in italics, draft link, appendix link -->
 <!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
@@ -36,7 +36,7 @@ I argue that states pursue coherent climate national interests, which have recei
 
 
 
-**Environmentalism as Long-Term Good Provision: Evidence from Forest Conservation**
+**Environmentalism as Long-Term Good Provision: Evidence from Forest Conservation**,
 [Draft](http://sam-houskeeper.github.io/files/Papers/Environmentalism_as_Long_Term_Good_Provision__Evidence_from_Forest_Conservation_Draft.pdf)
 <!-- status in italics, draft link, appendix link -->
 <!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->

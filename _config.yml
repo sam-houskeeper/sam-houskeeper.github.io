@@ -83,9 +83,9 @@ analytics:
 author:
   name             : "Sam Houskeeper"
   avatar           : "bio-photo.png"
-  bio              : "Postdoctoral Fellow <br> Niehaus Center <br> Princeton University"
+  bio              : "Postdoctoral Fellow <br> Princeton University"
   location         : #"New York City"
-  employer         : #Princeton University #"https://niehaus.princeton.edu/news/2024/announcing-2024-2025-niehaus-fellows"
+  employer         : "[Niehaus Center]https://niehaus.princeton.edu/news/2024/announcing-2024-2025-niehaus-fellows"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "[.edu]sh1936@princeton.edu"

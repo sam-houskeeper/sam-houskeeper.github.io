@@ -88,7 +88,7 @@ author:
   employer         : #Princeton University #"https://niehaus.princeton.edu/news/2024/announcing-2024-2025-niehaus-fellows"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : #"sh1936@princeton.edu"
+  email            : "[.edu]sh1936@princeton.edu"
   researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-3931-1397"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

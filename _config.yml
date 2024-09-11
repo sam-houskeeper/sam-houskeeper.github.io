@@ -85,10 +85,10 @@ author:
   avatar           : "bio-photo.png"
   bio              : "Postdoctoral Fellow <br> Princeton University"
   location         : #"New York City"
-  employer         : "[Niehaus Center]https://niehaus.princeton.edu/news/2024/announcing-2024-2025-niehaus-fellows"
+  employer         : "https://niehaus.princeton.edu/news/2024/announcing-2024-2025-niehaus-fellows"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "[.edu]sh1936@princeton.edu"
+  email            : "sh1936@princeton.edu"
   researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -19,7 +19,7 @@ author_profile: true
 
 **Collective Reciprocity and the Failure of Climate Change Mitigation Treaties**,
 [Draft](http://sam-houskeeper.github.io/files/Papers/Collective_Reciprocity_and_the_Failure_of_Climate_Change_Mitigation_Treaties_from_Kyoto_to_Paris.pdf),
-(*under review*)
+*under review*
 <!-- status in italics, draft link, appendix link -->
 <!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
 
@@ -36,15 +36,6 @@ I argue that states pursue coherent climate national interests, which have recei
 
 
 
-**Environmentalism as Long-Term Good Provision: Evidence from Forest Conservation**,
-[Draft](http://sam-houskeeper.github.io/files/Papers/Environmentalism_as_Long_Term_Good_Provision__Evidence_from_Forest_Conservation_Draft.pdf)
-<!-- status in italics, draft link, appendix link -->
-<!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
-
-This article develops a novel institutional theory of long-term environmental good provision, particularly forest conservation. Long-term goods, or those for which payoffs are delayed or spread over time, are more likely to be provided by states with long-term institutions, or those with low discount rates and inter-temporal commitment mechanisms. Leveraging recent institutional theories, I argue that party institutionalization lengthens institutional time horizons while constraints on the executive allows inter-temporal commitment. Both features therefore predict long-term environmental good provision. Environmental goods are frequently long term because feedback from ecological systems creates tipping points or vicious cycles, meaning that current actions may be costless today but contribute to significant damage in future periods. Understanding the implications of the inter-temporal nature of many environmental goods is especially important because a large share of environmental goods, such as forest conservation, are not explained by traditional approaches which focus on public goods models for symmetric and non-excludable goods. I test my theory with cross-national time-series data on forest coverage, demonstrating that forest protection is not predicted by public goods theory but is well predicted by long-term institutions.
-
-
-
 **Climate Finance as a Principal-Agent Problem**
 <!-- status in italics, draft link, appendix link -->
 <!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
@@ -54,6 +45,17 @@ Climate finance constitutes a principal-agent problem in which funder states and
 
 
 **Political Cleavages from Climate Change**
+
+In this article, I develop a theoretical framework treating environmental politics as contestation over abatement policy. This contestation is defined by cleavages of varying location and structure, predicted by the interaction of abatement's supply excludability and benefit symmetry. I apply this framework to climate change, predicting distinct cleavages defining the contestation over mitigation and adaptation at both the domestic and international levels. This framework integrates current and past research on climate and the environment, clarifying the relationships between a) climate politics and general environmental politics, b) climate politics at the international and domestic levels, and c) alternative climate abatement strategies.
+
+
+
+**Environmentalism as Long-Term Good Provision: Evidence from Forest Conservation**,
+[Draft](http://sam-houskeeper.github.io/files/Papers/Environmentalism_as_Long_Term_Good_Provision__Evidence_from_Forest_Conservation_Draft.pdf)
+<!-- status in italics, draft link, appendix link -->
+<!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
+
+This article develops a novel institutional theory of long-term environmental good provision, particularly forest conservation. Long-term goods, or those for which payoffs are delayed or spread over time, are more likely to be provided by states with long-term institutions, or those with low discount rates and inter-temporal commitment mechanisms. Leveraging recent institutional theories, I argue that party institutionalization lengthens institutional time horizons while constraints on the executive allows inter-temporal commitment. Both features therefore predict long-term environmental good provision. Environmental goods are frequently long term because feedback from ecological systems creates tipping points or vicious cycles, meaning that current actions may be costless today but contribute to significant damage in future periods. Understanding the implications of the inter-temporal nature of many environmental goods is especially important because a large share of environmental goods, such as forest conservation, are not explained by traditional approaches which focus on public goods models for symmetric and non-excludable goods. I test my theory with cross-national time-series data on forest coverage, demonstrating that forest protection is not predicted by public goods theory but is well predicted by long-term institutions.
 
 
 

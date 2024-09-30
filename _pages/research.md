@@ -17,9 +17,9 @@ author_profile: true
 
 
 
-**Collective Reciprocity and the Failure of Climate Change Mitigation Treaties from Kyoto to Paris**,
+**Collective Reciprocity and the Failure of Climate Change Mitigation Treaties**,
 [Draft](http://sam-houskeeper.github.io/files/Papers/Collective_Reciprocity_and_the_Failure_of_Climate_Change_Mitigation_Treaties_from_Kyoto_to_Paris.pdf),
-*Submitted*
+(*under review*)
 <!-- status in italics, draft link, appendix link -->
 <!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
 
@@ -27,12 +27,12 @@ Climate change mitigation treaties have failed to induce emissions reductions in
 
 
 
-**Explaining National Variation in Unilateral Climate Change Mitigation**,
-[Draft](http://sam-houskeeper.github.io/files/Papers/Explaining_National_Variation_in_Unilateral_Climate_Change_Mitigation.pdf)
+**Climate National Interest: Explaining Variation in Unilateral Climate Change Mitigation**,
+[Draft](http://sam-houskeeper.github.io/files/Papers/Houskeeper_Climate_National_Interest.pdf)
 <!-- status in italics, draft link, appendix link -->
 <!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
 
-I argue that states pursue coherent climate national interests, which have received little theoretical or empirical attention in climate politics research. National climate change mitigation levels are the product of the costs/benefits of climate change action and state size, an indicator of invulnerability to free-riding. I derive this theory and connect it to the extant literature on climate politics with a framework that interrelates state climate change mitigation interests, preferences, behaviors, and outcomes. I validate my model of climate national interests by predicting the difference between real emissions changes and a novel estimate for counterfactual emissions changes. The theoretical framework and the counterfactual estimation methodology developed in this article will facilitate future work on climate mitigation politics, from both international and domestic politics approaches.
+I argue that states pursue coherent climate national interests, which have received little theoretical or empirical attention in climate politics research. National climate change mitigation levels are the product of the costs/benefits of climate change action and state size, an indicator of invulnerability to free-riding. I derive this theory and connect it to the extant literature on climate politics with a framework that interrelates state climate change mitigation interests, preferences, behaviors, and outcomes. I validate my model of climate national interests by predicting the difference between real emissions changes and a novel estimate for counterfactual emissions changes. The theoretical framework and the counterfactual estimation methodology developed in this article can facilitate future work on climate mitigation politics, from both international and domestic politics approaches.
 
 
 

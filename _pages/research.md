@@ -18,7 +18,7 @@ author_profile: true
 
 
 **Collective Reciprocity and the Failure of Climate Change Mitigation Treaties**,
-[Draft](http://sam-houskeeper.github.io/files/Papers/Collective_Reciprocity_and_the_Failure_of_Climate_Change_Mitigation_Treaties_from_Kyoto_to_Paris.pdf),
+[Draft](http://sam-houskeeper.github.io/files/Papers/Collective_Reciprocity.pdf),
 *under review*
 <!-- status in italics, draft link, appendix link -->
 <!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->

@@ -44,18 +44,18 @@ Climate finance constitutes a principal-agent problem in which funder states and
 
 
 
-**Political Cleavages from Climate Change**
+<!-- **Political Cleavages from Climate Change** -->
 
-In this article, I develop a theoretical framework treating environmental politics as contestation over abatement policy. This contestation is defined by cleavages of varying location and structure, predicted by the interaction of abatement's supply excludability and benefit symmetry. I apply this framework to climate change, predicting distinct cleavages defining the contestation over mitigation and adaptation at both the domestic and international levels. This framework integrates current and past research on climate and the environment, clarifying the relationships between a) climate politics and general environmental politics, b) climate politics at the international and domestic levels, and c) alternative climate abatement strategies.
+<!-- In this article, I develop a theoretical framework treating environmental politics as contestation over abatement policy. This contestation is defined by cleavages of varying location and structure, predicted by the interaction of abatement's supply excludability and benefit symmetry. I apply this framework to climate change, predicting distinct cleavages defining the contestation over mitigation and adaptation at both the domestic and international levels. This framework integrates current and past research on climate and the environment, clarifying the relationships between a) climate politics and general environmental politics, b) climate politics at the international and domestic levels, and c) alternative climate abatement strategies. -->
 
 
 
 **Environmentalism as Long-Term Good Provision: Evidence from Forest Conservation**,
-[Draft](http://sam-houskeeper.github.io/files/Papers/Environmentalism_as_Long_Term_Good_Provision__Evidence_from_Forest_Conservation_Draft.pdf)
+[Draft](http://sam-houskeeper.github.io/files/Papers/Long_Institutions.pdf)
 <!-- status in italics, draft link, appendix link -->
 <!--  draft links like this [Available here](http://sam-houskeeper.github.io/files/CV_10_2023.pdf) -->
 
-This article develops a novel institutional theory of long-term environmental good provision, particularly forest conservation. Long-term goods, or those for which payoffs are delayed or spread over time, are more likely to be provided by states with long-term institutions, or those with low discount rates and inter-temporal commitment mechanisms. Leveraging recent institutional theories, I argue that party institutionalization lengthens institutional time horizons while constraints on the executive allows inter-temporal commitment. Both features therefore predict long-term environmental good provision. Environmental goods are frequently long term because feedback from ecological systems creates tipping points or vicious cycles, meaning that current actions may be costless today but contribute to significant damage in future periods. Understanding the implications of the inter-temporal nature of many environmental goods is especially important because a large share of environmental goods, such as forest conservation, are not explained by traditional approaches which focus on public goods models for symmetric and non-excludable goods. I test my theory with cross-national time-series data on forest coverage, demonstrating that forest protection is not predicted by public goods theory but is well predicted by long-term institutions.
+This article develops a novel institutional theory of long-term environmental good provision, particularly forest conservation. Long goods, or those for which payoffs are delayed over time, are more likely to be provided by states with long institutions, or those with low discount rates and inter-temporal commitment mechanisms. Leveraging recent institutional theories, I argue that party institutionalization lengthens institutional time horizons while constraints on the executive allows inter-temporal commitment. Both features therefore predict long environmental good provision. Environmental protection is frequently a long problem because feedback from ecological systems creates tipping points or vicious cycles, meaning that current actions may be costless today but contribute to significant damage in future periods. Understanding the implications of the inter-temporal nature of many environmental goods is especially important because a large share of environmental goods, such as forest conservation, are not explained by traditional approaches which focus on public goods models for symmetric and non-excludable goods. I test my theory with cross-national time-series data on forest coverage, demonstrating that forest protection is not predicted by public goods theory but is well predicted by long institutions.
 
 
 
@@ -63,9 +63,17 @@ This article develops a novel institutional theory of long-term environmental go
 
 
 
+**The Effect of US-China Security Competition on Global Climate Change Cooperation**
+
+
+
+**Networks of Power: The International Politics of Trade in Electricity**
+
+
+
+**Environmental Advantages of Late Development**
+
+
+
 **Lobbying Implications of Property-Based Chemical Regulation**
 <br> with [Kinnari M. Shah](https://www.kinnarimshah.com)
-
-
-
-**The Effect of Polarity on International Regimes: Implications for Climate Change Mitigation**

@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Sam Houskeeper"
   avatar           : "bio-photo.png"
-  bio              : "Postdoctoral Fellow <br> Princeton University"
+  bio              : "Departmental Lecturer <br> University of Oxford"
   location         : #"New York City"
-  employer         : "https://niehaus.princeton.edu/news/2024/announcing-2024-2025-niehaus-fellows"
+  employer         : "https://www.politics.ox.ac.uk"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "sh1936@princeton.edu"
+  email            : "sam.houskeeper@gmail.com"
   researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -84,11 +84,11 @@ author:
   name             : "Sam Houskeeper"
   avatar           : "bio-photo.png"
   bio              : "Departmental Lecturer <br> University of Oxford"
-  location         : #"New York City"
-  employer         : "https://www.politics.ox.ac.uk"
+  location         : #"Oxford, UK"
+  employer         : "https://www.politics.ox.ac.uk/person/sam-houskeeper"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "sam.houskeeper@gmail.com"
+  email            : "sam.houskeeper@politics.ox.ac.uk"
   researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3931-1397"
+  orcid            : "https://orcid.org/0000-0002-3931-1397"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

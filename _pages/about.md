@@ -14,4 +14,4 @@ I am a Departmental Lecturer at the University of Oxford and a Tutorial Fellow a
 
 Previously, I was a postdoctoral fellow (2024-2025) at Princeton University's Niehaus Center for Globalization and Governance. I completed my Ph.D. (2019-2024) in political science at Columbia University.
 
-You can contact me at: sam.houskeeper@gmail.com
+You can contact me at: sam.houskeeper@politics.ox.ac.uk
